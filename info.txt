@@ -1,0 +1,10 @@
+Programer Amir Amirzade 1402-02-06
+Created By "PM Designer V2.0.027"
+HMI: Panelmaster model: pk070-wst10-m1r0
+version: v3.0-1 . 1-sgx
+PLC: S7-200
+
+pin connect:
+PLC           HMI
+3 ------------1
+8 ------------6
